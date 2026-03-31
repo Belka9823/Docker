@@ -1,11 +1,5 @@
 ## MySQL база данных
 
-Выполните все этапы работы с проектом по примеру с [Nginx](/content/Docker/ImageLibrary/Nginx.md)
-
-> Никогда в разработке не используйте русские имена файлов и каталогов!
-
-> Никогда в разработке не используйте пробелы и спец.символы в именах файлов и каталогов!
-
 1. Запуск **MySQL**
 
 в **Windows Powershell**
@@ -19,6 +13,7 @@ docker run -d `
   -e MYSQL_PASSWORD=password `
   mysql:8
 ```
+<img width="623" height="439" alt="image" src="https://github.com/user-attachments/assets/1dcc93a2-5b7e-499a-8394-2ae1fb1a8043" />
 
 > Если эта команда в Powershell не работает, то удалите из кода апострофы `
 
@@ -33,6 +28,8 @@ docker run -d \
   -e MYSQL_PASSWORD=password \
   mysql:8
 ```
+
+<img width="622" height="474" alt="image" src="https://github.com/user-attachments/assets/4e90d8ab-5b6d-4f5d-929e-2f263f27b2a0" />
 
 2. Подключиться
 ```shell
