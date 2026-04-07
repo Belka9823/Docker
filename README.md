@@ -1,41 +1,23 @@
 # Docker
 
-[Apache](apache.md)
+1. [Apache](apache.md)
+2. [Welcome to Docker](WekcomeToDocker.md)
+3. [Portainer](Portainer.md)
+4. [Speedtest](speedtest.md)
+5. [cAdvisor](cAdvisor.md)
+6. [MySQL](MySQL.md)
+7. [PostgresSQL](PostgresSQL.md)
+8. [MongoDB (NoSQL)](MongoDB.md)
+9. [Adminer (замена phpMyAdmin)](Adminer.md)
+10. [Jira](Jira.md)
+11. [Pcb2gcode](Pcb2gcode.md)
+12. [Статический сайт на Apache](Apache+StaticSite.md)
+13. [Ubuntu](Ubuntu.md)
+14. [Metasploitable2 docker](Metasploitable2.md)
+15. [Alt Linux в Docker](AltInDocker.md)
+16. [Python](Python.md)
+17. [Node.js для JavaScript](NodejsForJS.md)
+18. [База данных Redis](Redis.md)
+19. [HTTP-сервер для раздачи файлов](HTTPServerFiles.md)
+20. [Файловый обменник](file-server.md)
 
-[Welcome to Docker](WekcomeToDocker.md)
-
-[Portainer](Portainer.md)
-
-[Speedtest](speedtest.md)
-
-[cAdvisor](cAdvisor.md)
- 
-[MySQL](MySQL.md)
-
-[PostgresSQL](PostgresSQL.md)
- 
-[MongoDB (NoSQL)](MongoDB.md)
-
-[Adminer (замена phpMyAdmin)](Adminer.md)
-
-[Jira](Jira.md)
- 
-[Pcb2gcode](Pcb2gcode.md)
-
-[Статический сайт на Apache](Apache+StaticSite.md)
-
-[Ubuntu](Ubuntu.md)
-
-[Metasploitable2 docker](Metasploitable2.md)
-
-[Alt Linux в Docker](AltInDocker.md)
-
-[Python](Python.md)
-
-[Node.js для JavaScript](NodejsForJS.md)
-
-[База данных Redis](Redis.md)
-
-[HTTP-сервер для раздачи файлов](HTTPServerFiles.md)
-
-[Файловый обменник](file-server.md)
